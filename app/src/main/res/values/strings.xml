@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Art_Space</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="elgrito">El Grito</string>
+    <string name="elbeso">El Beso</string>
+    <string name="lasmeninas">Las Meninas</string>
+    <string name="monalisa">La Monalisa</string>
+    <string name="nocheestrellada">La Noche Estrellada</string>
+    <string name="elgritoartista">Edvard Munch</string>
+    <string name="elbesoartista">Gustav Klimt</string>
+    <string name="lasmeninasartista">Diego Velázquez</string>
+    <string name="monalisaartista">Leonardo Da Vinci</string>
+    <string name="nocheestrelladaartista">Vincent Van Gogh</string>
+    <string name="elgritoanio">1893</string>
+    <string name="elbesoanio">1907</string>
+    <string name="lasmeninasanio">1656</string>
+    <string name="monalisaanio">1503</string>
+    <string name="nocheestrelladaanio">1889</string>
+</resources>
